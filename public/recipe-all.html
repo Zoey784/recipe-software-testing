@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title></title>
+    <link href="https://fonts.googleapis.com/css2?family=Merriweather+Sans:ital,wght@0,300..800;1,300..800&family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
+    <script src="javascript.js"></script>
+</head>
+<body>
+    <!-- Navbar -->
+  <nav class="sticky top-0 w-full bg-white shadow-md">
+    <div class="flex flex-wrap justify-between items-center max-w-7xl mx-auto px-4 py-5">
+      <a href="index.html" class="text-2xl font-bold">RecipeRealm FlavorFuse</a>
+      <div class="flex space-x-6 mt-4 md:mt-0">
+        <a href="index.html" class="hover:border-b-2">Home</a>
+        <a href="recipe-all.html" class="hover:border-b-2">Recipe</a>
+        <a href="contact.html" class="hover:border-b-2">Contact Us</a>
+      </div>
+    </div>
+  </nav>
+  <!-- Search Section -->
+  <section class="max-w-7xl mx-auto px-4 mt-10 mb-10">
+    <form id="search-form" class="relative shadow-2xl rounded-md flex items-center" autocomplete="off">
+      <input type="text" id="searchitem" placeholder="Search Recipe" class="w-full h-14 pl-10 pr-14 rounded-md border border-gray-300 focus:outline-none" />
+      <button type="submit" class="absolute right-5">
+        <img src="image/loupe.png" class="w-6" />
+      </button>
+      <ul id="suggestions" class="absolute left-0 right-0 top-16 bg-white border border-gray-300 rounded-b-md max-h-60 overflow-auto z-10"></ul>
+    </form>
+  </section>
+
+  <!-- Recipes Section -->
+  <section class="max-w-7xl mx-auto px-4 mt-10 mb-10">
+    <div id="all-recipes" class="flex flex-wrap gap-6 justify-center"></div>
+  </section>
+</body>
+</html>
