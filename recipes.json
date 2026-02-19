@@ -1,0 +1,521 @@
+[
+  {
+    "id": 1,
+    "title": "Pasta Carbonara",
+    "description": "Classic Italian pasta with eggs, cheese, pancetta, and pepper.",
+    "imageUrl": "https://images.pexels.com/photos/20352389/pexels-photo-20352389.jpeg",
+    "category": "Pasta",
+    "link": "https://fed-recipe.onrender.com/recipe.html?id=1&slug=Pasta-Carbonara",
+    "totalTime": "25 minutes",
+    "prepTime": "10 minutes",
+    "cookTime": "15 minutes",
+    "ingredients": [
+      "200g spaghetti",
+      "100g pancetta",
+      "2 eggs",
+      "50g grated Parmesan cheese",
+      "Salt & black pepper"
+    ],
+    "preparation": [
+      "Cook spaghetti in salted boiling water.",
+      "Fry pancetta until crispy.",
+      "Beat eggs with Parmesan and pepper.",
+      "Drain spaghetti and mix quickly with egg mixture and pancetta.",
+      "Serve immediately."
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Spaghetti Bolognese",
+    "description": "Rich tomato meat sauce served with spaghetti noodles.",
+    "imageUrl": "https://images.pexels.com/photos/128408/pexels-photo-128408.jpeg",
+    "category": "Pasta",
+    "link": "https://fed-recipe.onrender.com/recipe.html?id=2&slug=Spaghetti-Bolognese",
+    "totalTime": "1 hour",
+    "prepTime": "15 minutes",
+    "cookTime": "45 minutes",
+    "ingredients": [
+      "200g spaghetti",
+      "250g minced beef",
+      "1 onion, chopped",
+      "2 cloves garlic, minced",
+      "400g canned tomatoes",
+      "2 tbsp tomato paste",
+      "Olive oil, salt, pepper"
+    ],
+    "preparation": [
+      "Cook spaghetti in salted water.",
+      "Sauté onion and garlic in olive oil until fragrant.",
+      "Add minced beef and cook until browned.",
+      "Add tomatoes and tomato paste, simmer for 30 minutes.",
+      "Season with salt and pepper.",
+      "Serve sauce over spaghetti."
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Pesto Penne",
+    "description": "Penne pasta tossed in fresh basil pesto sauce.",
+    "imageUrl": "https://images.pexels.com/photos/32645033/pexels-photo-32645033.jpeg",
+    "category": "Pasta",
+    "link": "https://fed-recipe.onrender.com/recipe.html?id=3&slug=Pesto-Penne",
+    "totalTime": "20 minutes",
+    "prepTime": "10 minutes",
+    "cookTime": "10 minutes",
+    "ingredients": [
+      "200g penne pasta",
+      "50g basil leaves",
+      "30g pine nuts",
+      "50g Parmesan cheese",
+      "1 clove garlic",
+      "Olive oil",
+      "Salt"
+    ],
+    "preparation": [
+      "Cook penne in salted boiling water.",
+      "Blend basil, pine nuts, Parmesan, garlic, and olive oil to make pesto.",
+      "Drain pasta and toss with pesto.",
+      "Serve with extra Parmesan if desired."
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Sushi Roll",
+    "description": "Fresh sushi rolls with salmon, avocado, and cucumber.",
+    "imageUrl": "https://images.pexels.com/photos/357756/pexels-photo-357756.jpeg",
+    "category": "Japanese",
+    "link": "https://fed-recipe.onrender.com/recipe.html?id=4&slug=Sushi-Roll",
+    "totalTime": "45 minutes",
+    "prepTime": "30 minutes",
+    "cookTime": "15 minutes",
+    "ingredients": [
+      "2 cups sushi rice",
+      "100g salmon",
+      "1 avocado",
+      "1 cucumber",
+      "Nori sheets",
+      "Soy sauce, wasabi"
+    ],
+    "preparation": [
+      "Cook and season sushi rice.",
+      "Slice salmon, avocado, and cucumber.",
+      "Place nori on bamboo mat, spread rice evenly.",
+      "Add fillings and roll tightly.",
+      "Cut and serve with soy sauce and wasabi."
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Udon",
+    "description": "Thick udon noodles in broth.",
+    "imageUrl": "https://images.pexels.com/photos/31286787/pexels-photo-31286787.jpeg",
+    "category": "Japanese",
+    "link": "https://fed-recipe.onrender.com/recipe.html?id=5&slug=Udon",
+    "totalTime": "30 minutes",
+    "prepTime": "10 minutes",
+    "cookTime": "20 minutes",
+    "ingredients": [
+      "200g udon noodles",
+      "1 liter dashi broth",
+      "2 tbsp soy sauce",
+      "1 tbsp mirin",
+      "Green onions",
+      "Tempura or fish cake (optional)"
+    ],
+    "preparation": [
+      "Cook udon noodles and drain.",
+      "Heat dashi, soy sauce, and mirin to make broth.",
+      "Place noodles in bowl and pour broth over.",
+      "Garnish with green onions and toppings."
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Chicken Katsu Curry",
+    "description": "Crispy chicken cutlet served with rich Japanese curry and rice.",
+    "imageUrl": "https://images.pexels.com/photos/17593646/pexels-photo-17593646.jpeg",
+    "category": "Japanese",
+    "link": "https://fed-recipe.onrender.com/recipe.html?id=6&slug=Chicken-Katsu-Curry",
+    "totalTime": "50 minutes",
+    "prepTime": "20 minutes",
+    "cookTime": "30 minutes",
+    "ingredients": [
+      "2 chicken breasts",
+      "Flour, egg, panko for coating",
+      "Japanese curry roux",
+      "1 onion, chopped",
+      "1 carrot, chopped",
+      "2 cups rice",
+      "Oil for frying"
+    ],
+    "preparation": [
+      "Cook rice separately.",
+      "Coat chicken with flour, egg, and panko, then fry until golden.",
+      "Sauté onion and carrot, add water and curry roux, simmer.",
+      "Slice chicken, serve with rice and curry sauce."
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Chicken Tikka Masala",
+    "description": "Spicy and creamy Indian chicken curry served with rice.",
+    "imageUrl": "https://images.pexels.com/photos/9609840/pexels-photo-9609840.jpeg",
+    "category": "Indian",
+    "link": "https://fed-recipe.onrender.com/recipe.html?id=7&slug=Chicken-Tikka-Masala",
+    "totalTime": "1 hour",
+    "prepTime": "20 minutes",
+    "cookTime": "40 minutes",
+    "ingredients": [
+      "500g chicken breast, cubed",
+      "1 cup yogurt",
+      "2 tbsp tikka masala paste",
+      "1 onion, chopped",
+      "1 can tomato puree",
+      "1/2 cup cream",
+      "Rice, cilantro"
+    ],
+    "preparation": [
+      "Marinate chicken in yogurt and masala paste.",
+      "Grill or pan-fry chicken pieces.",
+      "Sauté onion, add tomato puree and simmer.",
+      "Add chicken and cream, cook until thickened.",
+      "Serve with rice and garnish with cilantro."
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Butter Chicken",
+    "description": "Tender chicken in a creamy spiced tomato sauce.",
+    "imageUrl": "https://images.pexels.com/photos/9738981/pexels-photo-9738981.jpeg",
+    "category": "Indian",
+    "link": "https://fed-recipe.onrender.com/recipe.html?id=8&slug=Butter-Chicken",
+    "totalTime": "1 hour",
+    "prepTime": "20 minutes",
+    "cookTime": "40 minutes",
+    "ingredients": [
+      "500g chicken thighs",
+      "1 cup yogurt",
+      "2 tbsp butter chicken paste",
+      "1 onion, chopped",
+      "1 can tomato puree",
+      "1/2 cup cream",
+      "Butter, rice"
+    ],
+    "preparation": [
+      "Marinate chicken in yogurt and paste.",
+      "Cook onion, add tomato puree and spices.",
+      "Add chicken and cook until tender.",
+      "Stir in cream and butter.",
+      "Serve with rice."
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Vegetable Biryani",
+    "description": "Fragrant spiced rice with mixed vegetables.",
+    "imageUrl": "https://images.pexels.com/photos/9609848/pexels-photo-9609848.jpeg",
+    "category": "Indian",
+    "link": "https://fed-recipe.onrender.com/recipe.html?id=9&slug=Vegetable-Biryani",
+    "totalTime": "1 hour",
+    "prepTime": "20 minutes",
+    "cookTime": "40 minutes",
+    "ingredients": [
+      "2 cups basmati rice",
+      "1 cup mixed vegetables",
+      "1 onion, sliced",
+      "2 tbsp biryani paste",
+      "Yogurt",
+      "Fried onions",
+      "Mint and coriander"
+    ],
+    "preparation": [
+      "Cook rice until 70% done.",
+      "Fry onions and vegetables with biryani paste.",
+      "Layer rice and vegetable mix in pot.",
+      "Add yogurt and herbs between layers.",
+      "Cover and steam until fully cooked.",
+      "Garnish with fried onions and mint."
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Beef Tacos",
+    "description": "Tacos filled with seasoned beef, lettuce, cheese, and salsa.",
+    "imageUrl": "https://images.pexels.com/photos/5837196/pexels-photo-5837196.jpeg",
+    "category": "Mexican",
+    "link": "https://fed-recipe.onrender.com/recipe.html?id=10&slug=Beef-Tacos",
+    "totalTime": "30 minutes",
+    "prepTime": "10 minutes",
+    "cookTime": "20 minutes",
+    "ingredients": [
+      "250g ground beef",
+      "Taco shells",
+      "Lettuce, shredded",
+      "Cheddar cheese, shredded",
+      "Salsa",
+      "Taco seasoning"
+    ],
+    "preparation": [
+      "Cook beef with taco seasoning.",
+      "Prepare lettuce, cheese, and salsa.",
+      "Fill taco shells with beef and toppings.",
+      "Serve immediately."
+    ]
+  },
+  {
+    "id": 11,
+    "title": "Chicken Quesadilla",
+    "description": "Grilled tortilla filled with chicken, cheese, and veggies.",
+    "imageUrl": "https://images.pexels.com/photos/461198/pexels-photo-461198.jpeg",
+    "category": "Mexican",
+    "link": "https://fed-recipe.onrender.com/recipe.html?id=11&slug=Chicken-Quesadilla",
+    "totalTime": "25 minutes",
+    "prepTime": "10 minutes",
+    "cookTime": "15 minutes",
+    "ingredients": [
+      "2 large tortillas",
+      "200g cooked chicken, shredded",
+      "1 cup shredded cheese",
+      "1/2 bell pepper, sliced",
+      "1/2 onion, sliced",
+      "Salsa, sour cream"
+    ],
+    "preparation": [
+      "Sauté bell pepper and onion until soft.",
+      "Layer chicken, veggies, and cheese on one half of each tortilla.",
+      "Fold and cook on skillet until golden brown and cheese melts.",
+      "Cut and serve with salsa and sour cream."
+    ]
+  },
+  {
+    "id": 12,
+    "title": "Guacamole with Chips",
+    "description": "Creamy avocado dip served with crispy tortilla chips.",
+    "imageUrl": "https://images.pexels.com/photos/10432613/pexels-photo-10432613.jpeg",
+    "category": "Mexican",
+    "link": "https://fed-recipe.onrender.com/recipe.html?id=12&slug=Guacamole-with-Chips",
+    "totalTime": "15 minutes",
+    "prepTime": "15 minutes",
+    "cookTime": "0 minutes",
+    "ingredients": [
+      "2 ripe avocados",
+      "1 tomato, diced",
+      "1/4 onion, finely chopped",
+      "Juice of 1 lime",
+      "Cilantro, chopped",
+      "Salt, tortilla chips"
+    ],
+    "preparation": [
+      "Mash avocados in a bowl.",
+      "Add tomato, onion, lime juice, and cilantro.",
+      "Season with salt and mix.",
+      "Serve immediately with tortilla chips."
+    ]
+  },
+  {
+    "id": 13,
+    "title": "Greek Salad",
+    "description": "Tomatoes, cucumbers, olives, and feta cheese with olive oil.",
+    "imageUrl": "https://images.pexels.com/photos/1211887/pexels-photo-1211887.jpeg",
+    "category": "Salad",
+    "link": "https://fed-recipe.onrender.com/recipe.html?id=13&slug=Greek-Salad",
+    "totalTime": "15 minutes",
+    "prepTime": "15 minutes",
+    "cookTime": "0 minutes",
+    "ingredients": [
+      "2 tomatoes, chopped",
+      "1 cucumber, sliced",
+      "1/2 red onion, sliced",
+      "1/2 cup black olives",
+      "100g feta cheese, cubed",
+      "Olive oil, oregano, salt"
+    ],
+    "preparation": [
+      "Combine tomatoes, cucumber, onion, and olives in a bowl.",
+      "Add feta cheese cubes.",
+      "Drizzle with olive oil, sprinkle oregano and salt.",
+      "Toss gently and serve."
+    ]
+  },
+  {
+    "id": 14,
+    "title": "Caesar Salad",
+    "description": "Romaine lettuce with Caesar dressing, croutons, and parmesan.",
+    "imageUrl": "https://images.pexels.com/photos/2097090/pexels-photo-2097090.jpeg",
+    "category": "Salad",
+    "link": "https://fed-recipe.onrender.com/recipe.html?id=14&slug=Caesar-Salad",
+    "totalTime": "20 minutes",
+    "prepTime": "15 minutes",
+    "cookTime": "5 minutes",
+    "ingredients": [
+      "1 head romaine lettuce",
+      "1/2 cup Caesar dressing",
+      "1/2 cup croutons",
+      "1/4 cup grated Parmesan",
+      "Black pepper"
+    ],
+    "preparation": [
+      "Wash and chop lettuce.",
+      "Toss lettuce with Caesar dressing.",
+      "Add croutons and Parmesan.",
+      "Season with black pepper and serve."
+    ]
+  },
+  {
+    "id": 15,
+    "title": "Chocolate Brownies",
+    "description": "Rich, fudgy brownies with a crispy top.",
+    "imageUrl": "https://images.pexels.com/photos/6390679/pexels-photo-6390679.jpeg",
+    "category": "Dessert",
+    "link": "https://fed-recipe.onrender.com/recipe.html?id=15&slug=Chocolate-Brownies",
+    "totalTime": "45 minutes",
+    "prepTime": "15 minutes",
+    "cookTime": "30 minutes",
+    "ingredients": [
+      "200g dark chocolate",
+      "150g butter",
+      "3 eggs",
+      "200g sugar",
+      "100g flour",
+      "Pinch of salt"
+    ],
+    "preparation": [
+      "Melt chocolate and butter together.",
+      "Whisk eggs and sugar until fluffy.",
+      "Combine with melted chocolate.",
+      "Fold in flour and salt.",
+      "Pour into baking pan and bake at 180°C for 30 minutes.",
+      "Cool before slicing."
+    ]
+  },
+  {
+    "id": 16,
+    "title": "Cheesecake",
+    "description": "Classic creamy cheesecake with a graham cracker crust.",
+    "imageUrl": "https://images.pexels.com/photos/3323686/pexels-photo-3323686.jpeg",
+    "category": "Dessert",
+    "link": "https://fed-recipe.onrender.com/recipe.html?id=16&slug=Cheesecake",
+    "totalTime": "6 hours",
+    "prepTime": "30 minutes",
+    "cookTime": "1 hour",
+    "ingredients": [
+      "200g graham crackers",
+      "100g butter, melted",
+      "500g cream cheese",
+      "200g sugar",
+      "3 eggs",
+      "200ml sour cream",
+      "1 tsp vanilla extract"
+    ],
+    "preparation": [
+      "Mix crushed graham crackers with melted butter, press into pan.",
+      "Beat cream cheese and sugar until smooth.",
+      "Add eggs one at a time, then sour cream and vanilla.",
+      "Pour over crust and bake at 160°C for 1 hour.",
+      "Cool and refrigerate at least 4 hours before serving."
+    ]
+  },
+  {
+    "id": 17,
+    "title": "Fruit Tart",
+    "description": "Crispy tart crust filled with cream and fresh fruits.",
+    "imageUrl": "https://images.pexels.com/photos/32695950/pexels-photo-32695950.jpeg",
+    "category": "Dessert",
+    "link": "https://fed-recipe.onrender.com/recipe.html?id=17&slug=Fruit-Tart",
+    "totalTime": "2 hours",
+    "prepTime": "30 minutes",
+    "cookTime": "30 minutes",
+    "ingredients": [
+      "1 tart crust",
+      "300ml pastry cream",
+      "Assorted fresh fruits (berries, kiwi, mango)",
+      "Apricot glaze"
+    ],
+    "preparation": [
+      "Bake tart crust until golden and cool.",
+      "Fill crust with pastry cream.",
+      "Arrange sliced fruits decoratively.",
+      "Brush with apricot glaze for shine.",
+      "Chill before serving."
+    ]
+  },
+  {
+    "id": 18,
+    "title": "Pad Thai",
+    "description": "Thai stir-fried noodles with shrimp, tofu, and peanuts.",
+    "imageUrl": "https://images.pexels.com/photos/2827263/pexels-photo-2827263.jpeg",
+    "category": "Thai",
+    "link": "https://fed-recipe.onrender.com/recipe.html?id=18&slug=Pad-Thai",
+    "totalTime": "30 minutes",
+    "prepTime": "15 minutes",
+    "cookTime": "15 minutes",
+    "ingredients": [
+      "200g rice noodles",
+      "150g shrimp",
+      "100g tofu, cubed",
+      "2 eggs",
+      "Bean sprouts",
+      "Chopped peanuts",
+      "Pad Thai sauce"
+    ],
+    "preparation": [
+      "Soak rice noodles until soft.",
+      "Sauté tofu and shrimp.",
+      "Add noodles and sauce, stir-fry.",
+      "Push to side, scramble eggs, then mix.",
+      "Add bean sprouts and peanuts before serving."
+    ]
+  },
+  {
+    "id": 19,
+    "title": "Green Curry",
+    "description": "Spicy Thai green curry with chicken and vegetables.",
+    "imageUrl": "https://images.pexels.com/photos/32640450/pexels-photo-32640450.jpeg",
+    "category": "Thai",
+    "link": "https://fed-recipe.onrender.com/recipe.html?id=19&slug=Green-Curry",
+    "totalTime": "40 minutes",
+    "prepTime": "15 minutes",
+    "cookTime": "25 minutes",
+    "ingredients": [
+      "400g chicken thighs",
+      "2 tbsp green curry paste",
+      "1 can coconut milk",
+      "1 bell pepper, sliced",
+      "100g eggplant, chopped",
+      "Thai basil, fish sauce"
+    ],
+    "preparation": [
+      "Sauté curry paste until fragrant.",
+      "Add chicken and stir-fry.",
+      "Pour in coconut milk, bring to boil.",
+      "Add vegetables and simmer until tender.",
+      "Season with fish sauce and garnish with basil."
+    ]
+  },
+  {
+    "id": 20,
+    "title": "Tom Yum Soup",
+    "description": "Hot and sour Thai soup with shrimp and mushrooms.",
+    "imageUrl": "https://images.pexels.com/photos/30120278/pexels-photo-30120278.jpeg",
+    "category": "Thai",
+    "link": "https://fed-recipe.onrender.com/recipe.html?id=20&slug=Tom-Yum-Soup",
+    "totalTime": "30 minutes",
+    "prepTime": "10 minutes",
+    "cookTime": "20 minutes",
+    "ingredients": [
+      "300g shrimp",
+      "200g mushrooms, sliced",
+      "3 cups chicken broth",
+      "2 stalks lemongrass",
+      "3 kaffir lime leaves",
+      "Chili paste, fish sauce, lime juice"
+    ],
+    "preparation": [
+      "Bring broth to boil with lemongrass and lime leaves.",
+      "Add mushrooms and cook until soft.",
+      "Add shrimp and cook until pink.",
+      "Season with chili paste, fish sauce, and lime juice.",
+      "Serve hot."
+    ]
+  }
+]
