@@ -5,10 +5,11 @@
   "main": "app.js",
   "scripts": {
     "start": "node app.js",
-    "test": "set NODE_ENV=test&& jest",
-    "test:unit": "set NODE_ENV=test&& jest tests/unit",
-    "test:e2e": "node tests/e2e/recipe.e2e.js",
-    "test:perf": "k6 run tests/perf/load_test.js"
+    "test:unit": "jest tests/unit",
+    "test:api": "jest tests/integration",
+    "test:ui": "node tests/e2e/recipe.e2e.js",
+    "test:perf": "k6 run tests/perf/load_test.js",
+    "test:bdd": "cucumber-js tests/bdd/features --require tests/bdd/steps/*.js"
   },
   "dependencies": {
     "bcrypt": "^5.1.1",
@@ -22,6 +23,7 @@
     "mssql": "^11.0.1"
   },
   "devDependencies": {
+    "@cucumber/cucumber": "^12.6.0",
     "chromedriver": "^144.0.1",
     "jest": "^30.2.0",
     "selenium-webdriver": "^4.40.0",
